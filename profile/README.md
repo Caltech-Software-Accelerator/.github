@@ -36,7 +36,7 @@ Whether you're an experienced research software engineer or just curious to get 
 ## 📬 Get Involved
 
 - 🔍 Explore our repositories
-- 📝 Read our [Contributing Guide](CONTRIBUTING.md)
+- 📝 Read our [Contributing Guide](CONTRIBUTING.md))
 - 💬 Join an upcoming lunch discussion or seminar
 - 📫 Questions? Reach out to a maintainer or project lead
 
