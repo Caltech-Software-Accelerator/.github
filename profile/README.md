@@ -36,7 +36,7 @@ Whether you're an experienced research software engineer or just curious to get 
 ## 📬 Get Involved
 
 - 🔍 Explore our repositories
-- 📝 Read our [Contributing Guide](CONTRIBUTING.md)
+- 📝 Read our [Contributing Guide](.github/CONTRIBUTING.md)
 - 💬 Join an upcoming lunch discussion or seminar
 - 📫 Questions? Reach out to a maintainer or project lead
 
@@ -51,4 +51,3 @@ For general inquiries or to get involved, please email: **[clarisse@caltech.edu]
 ---
 
 🏛️ Caltech Software Accelerator • Building a research software community one commit at a time
-
